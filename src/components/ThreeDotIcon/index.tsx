@@ -32,7 +32,7 @@ export function ThreeDotIconComp() {
         </div>
       }
     >
-      <Button>
+      <Button color="header_tridot_icon">
         <ThreeDotIcon />
       </Button>
     </Popover>

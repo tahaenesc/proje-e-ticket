@@ -36,11 +36,7 @@ export default function RootLayout({
     dropdown: {
       floating: {
         target: "w-full",
-        style: {
-          dark: "bg-transparent text-white dark:bg-transparent",
-          light: "bg-transparent text-gray-900",
-          auto: "bg-transparent text-gray-900 dark:bg-transparent dark:text-white ",
-        },
+        
       },
     },
     drawer: {
@@ -101,7 +97,7 @@ export default function RootLayout({
     },
     button: {
       color: {
-        info: "",
+        header_tridot_icon: "border border-transparent",
       },
     },
     popover: {

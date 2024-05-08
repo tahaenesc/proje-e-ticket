@@ -8,8 +8,9 @@ import {
   SearchInputIcon,
   UserIcon,
 } from "@/components/Icons";
-import { Avatar, TextInput } from "flowbite-react";
+import { Avatar, Button, TextInput } from "flowbite-react";
 import Link from "next/link";
+import { UserPlace } from "../UserPlace";
 
 type Props = {};
 
@@ -56,10 +57,7 @@ const Menu = (props: Props) => {
       </div>
       <div className="flex items-center">
         <div className="flex gap-5 lg:gap-10">
-          <div className="flex items-center justify-center gap-5 text-white ">
-            <Avatar rounded />
-            <div className=" font-medium text-lg">Taha Enes</div>
-          </div>
+          <UserPlace/>
           <div>
             <Link
               className="bg-darkBlue rounded-md text-white font-medium w-full h-full px-4 lg:px-8 flex items-center"
