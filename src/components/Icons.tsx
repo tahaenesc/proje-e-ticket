@@ -153,7 +153,7 @@ const FileIcon = ({ ...otherProps }) => {
 
 const MessageBoxIcon = ({ ...otherProps }) => {
   return (
-    <Link href="/messages" className="flex items-center">
+    
       <div>
         <svg
           aria-hidden="true"
@@ -175,7 +175,6 @@ const MessageBoxIcon = ({ ...otherProps }) => {
           />
         </svg>
       </div>
-    </Link>
   );
 };
 
