@@ -1,0 +1,77 @@
+[
+  {
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "img": "/img/proje1.png"
+  },
+  {
+    "name": "Jane Doe",
+    "email": "jane.doe@example.com",
+    "img": "/img/proje2.png"
+  },
+  {
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "img": "/img/proje3.png"
+  },
+  {
+    "name": "Bob Johnson",
+    "email": "bob.johnson@example.com",
+    "img": "/img/proje4.png"
+  },
+  {
+    "name": "Emily Brown",
+    "email": "emily.brown@example.com",
+    "img": "/img/proje5.jpeg"
+  },
+  {
+    "name": "Michael Wilson",
+    "email": "michael.wilson@example.com",
+    "img": "/img/proje6.jpeg"
+  },
+  {
+    "name": "Jessica Lee",
+    "email": "jessica.lee@example.com",
+    "img": "/img/proje7.jpeg"
+  },
+  {
+    "name": "David Martinez",
+    "email": "david.martinez@example.com",
+    "img": "/img/proje8.jpeg"
+  },
+  {
+    "name": "Sarah Taylor",
+    "email": "sarah.taylor@example.com",
+    "img": "/img/proje9.jpeg"
+  },
+  {
+    "name": "Christopher Thomas",
+    "email": "christopher.thomas@example.com",
+    "img": "/img/proje10.jpeg"
+  },
+  {
+    "name": "Amanda Garcia",
+    "email": "amanda.garcia@example.com",
+    "img": "/img/proje11.jpeg"
+  },
+  {
+    "name": "James Martinez",
+    "email": "james.martinez@example.com",
+    "img": "/img/proje12.jpeg"
+  },
+  {
+    "name": "Jennifer Hernandez",
+    "email": "jennifer.hernandez@example.com",
+    "img": "/img/proje13.jpeg"
+  },
+  {
+    "name": "Matthew Young",
+    "email": "matthew.young@example.com",
+    "img": "/img/proje14.jpeg"
+  },
+  {
+    "name": "Linda King",
+    "email": "linda.king@example.com",
+    "img": "/img/proje15.jpeg"
+  }
+]

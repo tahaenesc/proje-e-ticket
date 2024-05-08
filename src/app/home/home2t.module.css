@@ -1,0 +1,7 @@
+.marginLFive{
+    @apply ml-5 mr-12
+}
+
+.accAr{
+    @apply w-[230px] h-[100px]
+}

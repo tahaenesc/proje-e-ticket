@@ -1,0 +1,19 @@
+.incA {
+  @apply flex  p-10 absolute right-[250px] top-20
+}
+
+.incB {
+  @apply  max-w-[1850px] w-full
+}
+
+.incAnotherC {
+  @apply flex items-center justify-end p-12 absolute left-[10px] top-20
+}
+
+.incAnotherD {
+    @apply mx-auto w-full max-w-[550px];
+  }
+
+  .drop{
+     @apply absolute left-36
+  }

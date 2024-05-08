@@ -1,0 +1,11 @@
+.marginBottom {
+  @apply mb-20;
+}
+
+.marginBottom2{
+  @apply mb-3;
+}
+
+.marginBottom3{
+  @apply mt-20 mb-3;
+}

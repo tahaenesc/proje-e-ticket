@@ -1,0 +1,267 @@
+.innerSign {
+  @apply flex relative left-[300px] bottom-[500px] break-words overflow-hidden;
+}
+
+.innerHeadText {
+  @apply flex relative left-[35px] bottom-[176px] font-semibold text-[24px] break-words max-w-[1500px];
+}
+
+.expText {
+  @apply flex relative left-[35px] bottom-[170px] max-w-[1500px];
+}
+
+.area {
+  @apply w-[1520px] h-[200px];
+}
+
+.infText {
+  @apply font-bold text-[#ABABAB] absolute left-[40px] bottom-[10px];
+}
+
+.hour {
+  @apply absolute left-[290px] bottom-[12px];
+}
+
+.infHourText {
+  @apply font-normal text-[#ABABAB] absolute left-[320px] bottom-[10px];
+}
+
+.tri {
+  @apply absolute left-[390px] bottom-[12px];
+}
+
+.infAdminName {
+  @apply font-normal text-[#ABABAB] absolute left-[416px] bottom-[10px];
+}
+
+.infSide {
+  @apply absolute left-[730px] bottom-[10px];
+}
+
+.infSideText {
+  @apply font-bold text-[#C199C7] absolute left-[760px] bottom-[10px];
+}
+
+.message {
+  @apply absolute left-[620px] bottom-[10px];
+}
+
+.firSit {
+  @apply absolute bottom-[40px];
+}
+
+.secSit {
+  @apply absolute bottom-[180px];
+}
+
+.task1 {
+  @apply absolute right-[60px] top-[155px];
+}
+
+.task1 a {
+  @apply block;
+}
+
+.areaA {
+  @apply w-[1590px] h-[182px];
+}
+
+.task2 {
+  @apply absolute right-[60px] top-[355px];
+}
+
+.taskContainer {
+  @apply absolute right-[0px] top-[190px];
+}
+
+.taskContainer2 {
+  @apply absolute right-[0px] top-[380px];
+}
+
+.taskContainer3 {
+  @apply absolute right-[0px] top-[570px];
+}
+
+.filterbg {
+  @apply bg-[#eeeeee] h-[50px] border-solid border-b-[2px] border-[#DBDBDB]
+}
+
+.myTask {
+  @apply mt-5
+}
+
+.others {
+  @apply mt-5;
+}
+
+.imagea {
+  @apply ml-7 mt-0;
+}
+
+.svgab {
+  @apply h-[50px] -translate-x-[600px] 
+}
+
+.secBar {
+  @apply -translate-x-[1200px] -mt-[8px];
+}
+
+/* line up dizilim */
+
+.filterSignFirst {
+  @apply translate-x-[1100px] mt-[20px];
+}
+
+.filterSignSec {
+  @apply translate-x-[1100px] mt-[20px];
+}
+
+.filterSignTrd {
+  @apply translate-x-[1100px] mt-[20px];
+}
+
+.svgLineSec {
+  @apply h-[49px] translate-x-[1110px] mt-[7px];
+}
+
+.svgLineTrd {
+  @apply h-[49px] absolute left-[1600px] mt-[7px];
+}
+
+.svgLineFrd {
+  @apply h-[49px] absolute left-[1675px] mt-[7px];
+}
+
+/* header bar sağdaki büyüteç */
+.rightMagnify {
+  @apply absolute bottom-[2px] left-[1630px];
+}
+
+/* üç nokta sayfanın en sağındaki alan */
+.triDot {
+  @apply translate-x-[1190px] absolute bottom-4 right-5;
+}
+
+/* yazı stilleri */
+
+.styleText {
+  @apply text-[#adadad];
+}
+
+.styleMyTasks {
+  @apply text-[#adadad];
+}
+
+.sortText {
+  @apply text-[#adadad] translate-x-[1055px] text-[15px] mt-[22px];
+}
+
+/* border radius */
+.br {
+  @apply rounded-[5px];
+}
+
+/* sol yandaki panelin özellikleri */
+.leftSideGrayPanel {
+  @apply w-[280px] h-[790px] border-r border-solid -mt-[1px] relative -z-[1];
+}
+
+.btnRecent {
+  @apply translate-x-[350px];
+}
+
+.toRight {
+  @apply translate-x-[50px] w-[50px] h-[40px] text-[#adadad]
+}
+
+.leftBarWords {
+  @apply translate-x-[50px] relative -top-[25px] text-[#aaaaaa];
+}
+
+.leftBarWordsDone {
+  @apply translate-x-[50px] relative -top-[15px] text-[#aaaaaa];
+}
+
+.leftBarWordsSec {
+  @apply translate-x-[50px] relative -mt-[18px] text-[#aaaaaa];
+}
+
+.leftBarWordsAr {
+  @apply relative top-[3px] left-[50px];
+}
+
+.leftSignAr {
+  @apply relative top-[8px];
+}
+
+.leftSign {
+  @apply relative top-[25px];
+}
+.leftSignSecAll {
+  @apply relative top-[12px];
+}
+
+.leftSignSecTasks {
+  @apply relative top-[5px] left-[25px];
+}
+
+.horLeftLine {
+  @apply relative top-[25px] 
+}
+
+.leftBarWordsSecTasks {
+  @apply relative top-[4px] left-[25px];
+}
+
+.leftSignSecTickets {
+  @apply relative top-[8px] left-[50px];
+}
+
+.leftSignSecFlag {
+  @apply relative -top-[17px] left-[50px] whitespace-nowrap
+}
+
+
+.leftSignSecClients {
+  @apply relative top-[6px] left-[50px] whitespace-nowrap
+}
+
+.leftSignSecProj {
+  @apply relative top-[15px] left-[50px] whitespace-nowrap
+}
+
+.leftSignSecUser {
+  @apply relative top-[17px] left-[50px] whitespace-nowrap text-[16px]
+}
+
+.leftSignSecDep {
+  @apply relative top-[35px] left-[50px] whitespace-nowrap 
+}
+
+.background-gray {
+  @apply bg-[#cccccc]
+}
+
+.accArea{
+  @apply w-[250px] h-[250px]
+}
+
+.proFlex{
+  @apply flex
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
